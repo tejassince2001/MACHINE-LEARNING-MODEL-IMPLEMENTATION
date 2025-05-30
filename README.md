@@ -55,3 +55,9 @@ This model has broad real-world applicability in domains such as:
 
 With further tuning and more data, this model can be adapted to filter different types of textual content, enhancing digital communication safety and user experience.
 
+
+Output:
+
+![Image](https://github.com/user-attachments/assets/b5095876-483d-465b-96fd-191540a1cbb7)
+
+![Image](https://github.com/user-attachments/assets/3627ca6c-e53d-4cbc-9abf-f23f34856ec3)
